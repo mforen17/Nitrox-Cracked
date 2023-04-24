@@ -11,8 +11,4 @@ Please download the latest version from the versions section and run it. It will
 
 ## Thanks to the Nitrox team. (Special Thanks)
 
-KThe Nitrox team is working for me and the cracked version will be updated with each new release. Sunrunner is a bitch.
-
-
-
-
+The Nitrox team is working for me and the cracked version will be updated with each new release. Sunrunner is a bitch.
