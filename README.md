@@ -7,7 +7,7 @@ An open-source, multiplayer modification for the game Subnautica pirate.
 
 ## How to Install?
 
-Please download the latest version from the versions section and run it. It will work compatible with such pirated versions.
+Either compile the mod yourself or download the latest version from the releases section. It will work compatible with such pirated versions.
 
 ## Thanks to the Nitrox team. (Special Thanks)
 
